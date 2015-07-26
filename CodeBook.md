@@ -1,19 +1,19 @@
-CodeBook
+# CodeBook
 This code book describes the script, data it reviews and output file it generates.
 
-Data Set Description
+## Data Set Description
 
 This data is on an experiment which was conducted on group of 30 voluntrees age between 19-48years. The activities were Walking, Walking_Upstrais, Waliking_downstairs,  laying, standing, sitting. This data was collected via smartphone (Samsung Galaxy S II)
 .
 
 
 
-Raw Data was downloaded from this link:
+### Raw Data was downloaded from this link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
 
-Trasform Details: 
+## Trasform Details: 
 
 Follwoing steps were followed to transform the data and generage the output.
 
@@ -29,7 +29,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 
 
-The dataset includes the following files:
+## The dataset includes the following files:
 
 - [x] 'README.txt'
 
@@ -43,6 +43,6 @@ The dataset includes the following files:
 
 - [x] 'train/y_train.txt': Training labels.
 
-'test/X_test.txt': Test set.
+- [x] 'test/X_test.txt': Test set.
 
-'test/y_test.txt': Test labels.
+- [x] 'test/y_test.txt': Test labels.
