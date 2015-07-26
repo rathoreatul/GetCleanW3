@@ -46,3 +46,8 @@ From the data set in step 4, creates a second, independent tidy data set with th
 - [x] 'test/X_test.txt': Test set.
 
 - [x] 'test/y_test.txt': Test labels.
+
+## Script 
+The script name is run_analysis.R. you have to download this script and put it in same directory where data files are.
+Once you have all the files, you can run this sciprt and it will generate the output in the same directory.
+
