@@ -31,7 +31,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 The dataset includes the following files:
 
-'README.txt'
+- [] 'README.txt'
 
 'features_info.txt': Shows information about the variables used on the feature vector.
 
