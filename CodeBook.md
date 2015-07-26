@@ -1,5 +1,5 @@
 # CodeBook
-This code book describes the script, data it reviews and output file it generates.
+This code book describes about the Data set, the script and how the script analyzes the data and generates output files.
 
 ## Data Set Description
 
