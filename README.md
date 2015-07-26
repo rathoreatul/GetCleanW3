@@ -1,5 +1,5 @@
 # GetCleanW3
-Getting and Cleaning Data   Course Project
+## Getting and Cleaning Data   Course Project
 
 - You should create one R script called run_analysis.R that does the following. 
 - Merges the training and the test sets to create one data set.
@@ -10,12 +10,12 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 
 
-Steps:
+### Steps:
 Download the data source and put into a folder on your local drive. The code will unzip and will create a folder called "UCI HAR Dataset".
 copy the code run_analysis.R in the parent folder, this code will set your working directory to this location.
 Run source("run_analysis.R"), this will create a file called tidyAggragete.txt
 
-Dependencies
+## Dependencies
 
 reshape2
 data.table
